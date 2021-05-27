@@ -13,15 +13,15 @@ owner:
   bio: "没事扯扯淡述" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/favicon.gif # 浏览器地址栏小图标，可自定义更改
+favicon: img/favicon.ico # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
-twitter_username: @realJarryCat
+twitter_username: realJarryCat
 github_username: 
 facebook_username: 
 weibo_username: 
-zhihu_username: realbobcat
+zhihu_username: tomcat-63-60
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -55,7 +55,7 @@ comments :
       short_name :  # 填写你的 disqus id
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: G-2ETV9067FT# 填写你  google_analytics id
+google_analytics: G-2ETV9067FT # 填写你  google_analytics id
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
