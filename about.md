@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "好记性不如烂笔头，建个站记录工作、生活与学习 doge" 
-header-img: "img/gbm.jpg"
+header-img: "img/gbm.png"
 ---
 
 ## 博客介绍
