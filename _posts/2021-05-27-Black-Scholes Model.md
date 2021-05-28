@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 关于风险中性测度下Black-Scholes-Merton Model推导的总结
+tags: [金融数学, Stochastic Calculus for Finance]
 date: 2021-05-27
 categories: 金融数学
 ---
