@@ -5,13 +5,15 @@
     <description>Welcome to bobcatzoo</description>
     <link>https://realbobcat.github.io//</link>
     <atom:link href="https://realbobcat.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 28 May 2021 03:44:59 +0000</pubDate>
-    <lastBuildDate>Fri, 28 May 2021 03:44:59 +0000</lastBuildDate>
+    <pubDate>Fri, 28 May 2021 04:17:37 +0000</pubDate>
+    <lastBuildDate>Fri, 28 May 2021 04:17:37 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>关于风险中性测度下Black-Scholes Model推导</title>
-        <description>&lt;h2 id=&quot;风险中性测度下black-scholes-model推导&quot;&gt;风险中性测度下Black-Scholes Model推导&lt;/h2&gt;
+        <title>关于风险中性测度下Black-Scholes-Merton Model推导的总结</title>
+        <description>&lt;p&gt;从2008年一次考证经历，第一次知道期权这货并看到期权定价的Black-Scholes-Merton公式开始，就被其深深迷住了，断断续续翻阅了许多书籍及文献资料，包括Hull那本及基础的数学分析、实分析及基于测度论的概率论等，以其能踩到看懂其背后原理的垫脚石。但由于大学专业和数学八竿子打不着，看起来很吃力，直到工作后于2015年左右遇见世图影印出版的《Stochastic Calculus for Finance》才看到完整的讲解，似懂非懂中看到第5章开头就放弃了，断断续续一直到了2021年，趁COVID-19疫情工作之余继续怼，从头开始又来到了第5章，这次仿佛感觉看明白了。&lt;/p&gt;
+
+&lt;p&gt;因此做个总结，希望若干年以后还能不忘初心，顺着笔记还能摸到瓜。^_^&lt;/p&gt;
 
 &lt;h3 id=&quot;1-风险中性测度下的股价&quot;&gt;1. 风险中性测度下的股价&lt;/h3&gt;
 
@@ -64,11 +66,11 @@ d(D(t) S(t)) &amp;amp;=(\alpha(t)-R(t)) D(t) S(t) d t+\sigma(t) D(t) S(t) d W(t)
 
 </description>
         <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-        <link>https://realbobcat.github.io//blog/2021/05/27/Black-Scholes-Model/</link>
-        <guid isPermaLink="true">https://realbobcat.github.io//blog/2021/05/27/Black-Scholes-Model/</guid>
+        <link>https://realbobcat.github.io//%E9%87%91%E8%9E%8D%E6%95%B0%E5%AD%A6/2021/05/27/Black-Scholes-Model/</link>
+        <guid isPermaLink="true">https://realbobcat.github.io//%E9%87%91%E8%9E%8D%E6%95%B0%E5%AD%A6/2021/05/27/Black-Scholes-Model/</guid>
         
         
-        <category>blog</category>
+        <category>金融数学</category>
         
       </item>
     
